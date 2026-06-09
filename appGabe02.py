@@ -976,6 +976,7 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         with col_mat3_1:
             # st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
             '---'
+            '---'
         with col_mat3_2:
             st.image(os.path.join("assets", "photo_2026-04-24_11-50-59.jpg"), use_container_width=True)
         with col_mat3_3:
