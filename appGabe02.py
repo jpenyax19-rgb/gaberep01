@@ -1122,7 +1122,7 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         # Videos de la Obra
         st.markdown(f"<h4 style='margin-bottom: 15px;'>{TRANSLATIONS[lang_code]['videos_obra_header']}</h4>", unsafe_allow_html=True)
         st.markdown(f"<p style='font-weight: bold; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_1_title']}</p>", unsafe_allow_html=True)
-        st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
+        # st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
         
         st.markdown(f"<p style='font-weight: bold; margin-top: 15px; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_2_title']}</p>", unsafe_allow_html=True)
         st.markdown(f"<p style='line-height: 1.6; margin-bottom: 10px;'>{TRANSLATIONS[lang_code]['video_2_desc']}</p>", unsafe_allow_html=True)
