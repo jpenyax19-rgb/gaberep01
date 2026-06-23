@@ -1223,7 +1223,7 @@ st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
 
 st.markdown(TRANSLATIONS[lang_code]['testimonios_header'])
 with st.expander(TRANSLATIONS[lang_code]['testimonios_title'], expanded=True):
-    st.write(TRANSLATIONS[lang_code]['testimonios_content'])
+    # st.write(TRANSLATIONS[lang_code]['testimonios_content'])
     st.video(os.path.join("assets", "ReporteRogerStit.mp4"))
 
 
