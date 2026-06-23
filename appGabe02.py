@@ -212,7 +212,7 @@ TRANSLATIONS = {
         "header_title": "Project Report: Alas de Bendición y Esperanza Farm (GABE)",
         "intro_title": "📝 1. Introduction and Initial Fund Management",
         "intro_p1": "This report details the use and administration of the resources granted by <strong>Barnabas Aid</strong> for the operational development of the Alas de Bendición y Esperanza Farm (GABE).",
-        "intro_p2": "The receipt of these funds was finalized in November 2026; however, they were expected approximately six months earlier. To prevent the project from stalling and ensure operational continuity during that waiting period, it was necessary to temporarily use resources as a loan provided by <strong>ASIGLEH</strong>, under the commitment to return them once the definitive financing was received.",
+        "intro_p2": "The receipt of these funds was finalized in November 2025; however, they were expected approximately six months earlier. To prevent the project from stalling and ensure operational continuity during that waiting period, it was necessary to temporarily use resources as a loan provided by <strong>ASIGLEH</strong>, under the commitment to return them once the definitive financing was received.",
         "intro_p3": "This initial bridge financing allowed timely coverage of the following essential expenses for starting the project:",
         "intro_li1": "<strong>Poultry production:</strong> Acquisition and rearing costs of 50 <strong>broiler</strong> chickens.",
         "intro_li2": "<strong>Capacity expansion:</strong> Acquisition and rearing costs of up to 280 laying hens.",
