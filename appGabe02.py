@@ -10,10 +10,15 @@ TRANSLATIONS = {
         "header_title": "Informe Proyecto Granja Alas de Bendición y Esperanza (GABE)",
         "intro_title": "📝 1. Introducción y Gestión Inicial de Fondos",
         "intro_p1": "El presente reporte detalla el uso y la administración de los recursos otorgados por <strong>Barnabas Aid</strong> para el desarrollo operativo de la Granja Alas de Bendición y Esperanza (GABE).",
-        "intro_p2": "Antes de la recepción formal de estos fondos, la granja ya se encontraba en funcionamiento. Para mantener la continuidad operativa, fue necesario utilizar temporalmente recursos en calidad de préstamo provenientes de otros proyectos de la organización, bajo el compromiso de restituirlos una vez se recibiera el financiamiento de Barnabas Aid.",
-        "intro_p3": "Por lo tanto, tras recibir el desembolso inicial:",
-        "intro_li1": "<strong>USD 5,000</strong> se destinaron de inmediato a saldar dicho financiamiento puente.",
-        "intro_li2": "<strong>USD 10,000</strong> quedaron disponibles netos para la ejecución directa de las operaciones de la granja (tal como se ilustra en la primera imagen adjunta).",
+        "intro_p2": "La recepción de estos fondos se concretó en noviembre de 2026; sin embargo, los mismos se esperaban desde aproximadamente seis meses antes. Para evitar la paralización del proyecto y garantizar la continuidad operativa durante ese periodo de espera, fue necesario utilizar temporalmente recursos en calidad de préstamo provistos por <strong>ASIGLEH</strong>, bajo el compromiso de restituirlos una vez se recibiera el financiamiento definitivo.",
+        "intro_p3": "Este financiamiento puente inicial permitió cubrir de manera oportuna los siguientes gastos esenciales para el arranque del proyecto:",
+        "intro_li1": "<strong>Producción avícola:</strong> Adquisición y costos de cría de 50 pollos <strong>de engorde</strong>.",
+        "intro_li2": "<strong>Expansión de capacidad:</strong> Adquisición y costos de cría de hasta 280 gallinas ponedoras.",
+        "intro_li3": "<strong>Infraestructura:</strong> Adecuación y preparación de los espacios físicos destinados a los galpones de pollos y gallinas.",
+        "intro_li4": "<strong>Equipamiento:</strong> Compra de herramientas necesarias para la ejecución de las mejoras físicas, tanto en las áreas de producción como en la vivienda/habitación del personal.",
+        "intro_p4": "Por lo tanto, tras recibir el desembolso en noviembre:",
+        "intro_li5": "<strong>USD 5,000</strong> se destinaron de inmediato a saldar y restituir el financiamiento puente otorgado por <strong>ASIGLEH</strong>.",
+        "intro_li6": "<strong>USD 10,000</strong> quedaron disponibles netos para la ejecución directa de las operaciones corrientes de la granja (tal como se ilustra en la primera imagen adjunta). Cabe destacar que el desglose y la ejecución detallada de estos USD 10,000 remanentes son los que se mostrarán minuciosamente en las secciones siguientes de este informe.",
         "intro_img_caption": "Cheques y Soporte Financiero Inicial - Barnabas Aid",
         "context_title": "💱 2. Contexto Económico y Estrategia de Manejo Cambiario",
         "context_p1": "Operar en la economía venezolana representa un desafío financiero complejo. Aunque la mayoría de los bienes y servicios se pagan en Bolívares (VES), sus precios de referencia están anclados al Dólar (USD). La fluctuación diaria de la tasa de cambio genera una dinámica inflacionaria que dificulta la planificación financiera.",
@@ -36,7 +41,7 @@ TRANSLATIONS = {
         "zelle_soporte_col": "Soporte",
         "zelle_soporte_help": "Soporte digital de la transacción",
         "zelle_monto_col": "Monto USD",
-        "zelle_chart_header": "#### Compras Dierctas(pago via Zelle)",
+        "zelle_chart_header": "#### Compras Directas(pago via Zelle)",
         "zelle_chart_x": "Monto Total ($ USD)",
         "zelle_chart_y": "Descripción",
         "zelle_chart_tooltip_cat": "Descripción",
@@ -107,6 +112,7 @@ TRANSLATIONS = {
         "viz_expense_summary_title": "#### Distribución de Egresos ($ USD) Agrupados por Grupo Principal",
         "viz_expense_summary_donut_legend": "Grupos",
         "sec3_title": "Seccion 3: Consolidado Total de Egresos (directos + via cuenta nacional)",
+        "relacion_title": "📊 Relación de Ingresos y Gastos",
         "sec3_table_title": "##### Resumen de Egresos Consolidados",
         "sec3_col_egreso": "Egreso",
         "sec3_col_monto": "Monto ($)",
@@ -206,10 +212,15 @@ TRANSLATIONS = {
         "header_title": "Project Report: Alas de Bendición y Esperanza Farm (GABE)",
         "intro_title": "📝 1. Introduction and Initial Fund Management",
         "intro_p1": "This report details the use and administration of the resources granted by <strong>Barnabas Aid</strong> for the operational development of the Alas de Bendición y Esperanza Farm (GABE).",
-        "intro_p2": "Before the formal receipt of these funds, the farm was already in operation. To maintain operational continuity, it was necessary to temporarily use resources as a loan from other projects of the organization, under the commitment to return them once the financing from Barnabas Aid was received.",
-        "intro_p3": "Therefore, after receiving the initial disbursement:",
-        "intro_li1": "<strong>USD 5,000</strong> were immediately allocated to settle that bridge financing.",
-        "intro_li2": "<strong>USD 10,000</strong> remained net available for the direct execution of the farm's operations (as illustrated in the first attached image).",
+        "intro_p2": "The receipt of these funds was finalized in November 2026; however, they were expected approximately six months earlier. To prevent the project from stalling and ensure operational continuity during that waiting period, it was necessary to temporarily use resources as a loan provided by <strong>ASIGLEH</strong>, under the commitment to return them once the definitive financing was received.",
+        "intro_p3": "This initial bridge financing allowed timely coverage of the following essential expenses for starting the project:",
+        "intro_li1": "<strong>Poultry production:</strong> Acquisition and rearing costs of 50 <strong>broiler</strong> chickens.",
+        "intro_li2": "<strong>Capacity expansion:</strong> Acquisition and rearing costs of up to 280 laying hens.",
+        "intro_li3": "<strong>Infrastructure:</strong> Adaptation and preparation of the physical spaces intended for the chicken and hen coops.",
+        "intro_li4": "<strong>Equipment:</strong> Purchase of tools necessary for physical improvements, both in production areas and in the staff housing/room.",
+        "intro_p4": "Therefore, after receiving the disbursement in November:",
+        "intro_li5": "<strong>USD 5,000</strong> were immediately allocated to settle and return the bridge financing granted by <strong>ASIGLEH</strong>.",
+        "intro_li6": "<strong>USD 10,000</strong> remained net available for the direct execution of current farm operations (as illustrated in the first attached image). It is worth noting that the breakdown and detailed execution of these remaining USD 10,000 are what will be meticulously shown in the following sections of this report.",
         "intro_img_caption": "Cheques and Initial Financial Support - Barnabas Aid",
         "context_title": "💱 2. Economic Context and Exchange Rate Management Strategy",
         "context_p1": "Operating in the Venezuelan economy represents a complex financial challenge. Although most goods and services are paid in Bolívares (VES), their reference prices are anchored to the US Dollar (USD). The daily fluctuation of the exchange rate generates an inflationary dynamic that makes financial planning difficult.",
@@ -303,6 +314,7 @@ TRANSLATIONS = {
         "viz_expense_summary_title": "#### Expense Distribution ($ USD) Grouped by Main Group",
         "viz_expense_summary_donut_legend": "Groups",
         "sec3_title": "Section 3: Consolidated Total Expenses (direct + national account)",
+        "relacion_title": "📊 Statement of Income and Expenses",
         "sec3_table_title": "##### Consolidated Expenses Summary",
         "sec3_col_egreso": "Expense",
         "sec3_col_monto": "Amount ($)",
@@ -757,7 +769,7 @@ def map_zelle_desc(desc, lang="es"):
         return 'Comida Pollos y Gallinas' if lang == 'es' else 'Chickens and Hens Feed'
     elif any(w in desc_lower for w in ['limpieza', 'trabajo']):
         return 'Trabajos en Granja' if lang == 'es' else 'Farm Labor'
-    elif 'limones' in desc_lower:
+    elif 'limones' in desc_lower or 'cafe' in desc_lower or 'café' in desc_lower:
         return 'Siembras' if lang == 'es' else 'Planting'
     elif any(w in desc_lower for w in ['cuatrimoto', 'camión', 'camion']):
         return 'Vehiculos' if lang == 'es' else 'Vehicles'
@@ -974,9 +986,7 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         # Row 3
         col_mat3_1, col_mat3_2, col_mat3_3 = st.columns(3)
         with col_mat3_1:
-            # st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
-            '---'
-            '---'
+            st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
         with col_mat3_2:
             st.image(os.path.join("assets", "photo_2026-04-24_11-50-59.jpg"), use_container_width=True)
         with col_mat3_3:
@@ -1122,15 +1132,14 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         # Videos de la Obra
         st.markdown(f"<h4 style='margin-bottom: 15px;'>{TRANSLATIONS[lang_code]['videos_obra_header']}</h4>", unsafe_allow_html=True)
         st.markdown(f"<p style='font-weight: bold; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_1_title']}</p>", unsafe_allow_html=True)
-        # st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
+        st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
         
         st.markdown(f"<p style='font-weight: bold; margin-top: 15px; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_2_title']}</p>", unsafe_allow_html=True)
         st.markdown(f"<p style='line-height: 1.6; margin-bottom: 10px;'>{TRANSLATIONS[lang_code]['video_2_desc']}</p>", unsafe_allow_html=True)
         col_v2_1, col_v2_2, col_v2_3 = st.columns([1, 2, 1])
         with col_v2_2:
-            # st.video(os.path.join("assets", "makeoverExtreme.mp4"))
-            '---'
-            '---'
+            st.video(os.path.join("assets", "makeoverExtreme.mp4"))
+    
     
     # Divider
     st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
@@ -1185,13 +1194,9 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         st.markdown(TRANSLATIONS[lang_code]['siembra_limon_content'])
         col_l1, col_l2 = st.columns(2)
         with col_l1:
-            # st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
-            '---'
-            '---'
+            st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
         with col_l2:
-            # st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
-            '---'
-            '---'
+            st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
     
     with st.expander(TRANSLATIONS[lang_code]['siembra_cambur_title'], expanded=True):
         st.markdown(TRANSLATIONS[lang_code]['siembra_cambur_content'])
@@ -1223,7 +1228,7 @@ st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
 
 st.markdown(TRANSLATIONS[lang_code]['testimonios_header'])
 with st.expander(TRANSLATIONS[lang_code]['testimonios_title'], expanded=True):
-    # st.write(TRANSLATIONS[lang_code]['testimonios_content'])
+    #st.write(TRANSLATIONS[lang_code]['testimonios_content'])
     st.video(os.path.join("assets", "ReporteRogerStit.mp4"))
 
 
@@ -1241,6 +1246,13 @@ with st.expander(TRANSLATIONS[lang_code]['gestion_financiera_title'], expanded=T
     <ul style="margin-bottom: 20px;">
     <li>{TRANSLATIONS[lang_code]['intro_li1']}</li>
     <li>{TRANSLATIONS[lang_code]['intro_li2']}</li>
+    <li>{TRANSLATIONS[lang_code]['intro_li3']}</li>
+    <li>{TRANSLATIONS[lang_code]['intro_li4']}</li>
+    </ul>
+    <p>{TRANSLATIONS[lang_code]['intro_p4']}</p>
+    <ul style="margin-bottom: 20px;">
+    <li>{TRANSLATIONS[lang_code]['intro_li5']}</li>
+    <li>{TRANSLATIONS[lang_code]['intro_li6']}</li>
     </ul>
     </div>
     """, unsafe_allow_html=True)
@@ -1284,7 +1296,8 @@ with st.expander(TRANSLATIONS[lang_code]['gestion_financiera_title'], expanded=T
             {"Proveedor": "Brayan Diaz Marquez", "Fecha": "19-02-2026", "Monto USD": 200.00, "Descripción": "Por trabajos en la granja", "Imagen_Path": os.path.join("assets", "gabe09.jpg")},
             {"Proveedor": "Edgar Rincon Albarracin", "Fecha": "24-02-2026", "Monto USD": 350.00, "Descripción": "Por matas de limones GABE", "Imagen_Path": os.path.join("assets", "gabe10.jpg")},
             {"Proveedor": "Edgar Rincon Albarracin", "Fecha": "09-03-2026", "Monto USD": 108.00, "Descripción": "Por comida de gallinas", "Imagen_Path": os.path.join("assets", "gabe11.jpg")},
-            {"Proveedor": "Edgar Rincon Albarracin", "Fecha": "09-03-2026", "Monto USD": 92.00, "Descripción": "Por comida de gallinas y pollos", "Imagen_Path": os.path.join("assets", "gabe12.jpg")}
+            {"Proveedor": "Edgar Rincon Albarracin", "Fecha": "09-03-2026", "Monto USD": 92.00, "Descripción": "Por comida de gallinas y pollos", "Imagen_Path": os.path.join("assets", "gabe12.jpg")},
+            {"Proveedor": "Edgar Rincon Albarracin", "Fecha": "24-03-2026", "Monto USD": 450.00, "Descripción": "Por matas de cafe GABE", "Imagen_Path": ""}
         ]
         
         ZELLE_DESC_TRANSLATIONS = {
@@ -1297,7 +1310,8 @@ with st.expander(TRANSLATIONS[lang_code]['gestion_financiera_title'], expanded=T
             "Por comida de gallinas": "Hen Feed",
             "Por trabajos en la granja": "Farm Labor/Works",
             "Por matas de limones GABE": "GABE Lemon Plants",
-            "Por comida de gallinas y pollos": "Chicken and Hen Feed"
+            "Por comida de gallinas y pollos": "Chicken and Hen Feed",
+            "Por matas de cafe GABE": "GABE Coffee Plants"
         }
         
         df_zelle = pd.DataFrame(zelle_data)
@@ -1921,6 +1935,146 @@ with st.expander(TRANSLATIONS[lang_code]['gestion_financiera_title'], expanded=T
         })
         
         st.dataframe(styler_table, use_container_width=True, hide_index=True)
+        
+    # -------------------------------------------------------------------
+    # RELACIÓN DE INGRESOS Y GASTOS (NUEVO EXPANDER)
+    # -------------------------------------------------------------------
+    with st.expander(TRANSLATIONS[lang_code]['relacion_title'], expanded=True):
+        # 1. Calcular Ingresos
+        df_inc_all = df_filtered[df_filtered['en $'] > 0].copy() if 'en $' in df_filtered.columns else pd.DataFrame()
+        if not df_inc_all.empty:
+            def classify_inc(r):
+                det = str(r.get('Detalle') or "").strip().lower()
+                desc_col_n = 'Descripción' if 'Descripción' in r.index else ('Descripcion' if 'Descripcion' in r.index else None)
+                desc = str(r.get(desc_col_n) or "").strip().lower() if desc_col_n else ""
+                lbl = det if (det and det not in ['nan', 'none', '']) else desc
+                if 'gabriel' in lbl:
+                    return 'gabriel'
+                elif any(w in lbl for w in ['sierra', 'gabe-prestamo', 'ingreso : 50 gabe', 'horeb', 'joel', 'gabe(100)', 'gabe-200', 'pmis-cierre']):
+                    return 'sierra'
+                else:
+                    return 'otros'
+            df_inc_all['Cat'] = df_inc_all.apply(classify_inc, axis=1)
+            inc_g = df_inc_all[df_inc_all['Cat'] == 'gabriel']['en $'].sum()
+            inc_s = df_inc_all[df_inc_all['Cat'] == 'sierra']['en $'].sum()
+            inc_o = df_inc_all[df_inc_all['Cat'] == 'otros']['en $'].sum()
+        else:
+            inc_g, inc_s, inc_o = 0.0, 0.0, 0.0
+            
+        inc_zelle = df_zelle["Monto USD"].sum()
+        inc_bridge = 5000.0
+        total_ingresos = inc_bridge + inc_zelle + inc_g + inc_s + inc_o
+        
+        # Egresos ya calculados en la sección anterior (df_consolidated)
+        exp_bridge = 5000.0
+        total_egresos = exp_bridge + df_consolidated['Monto USD'].sum()
+        utilidad_val = total_ingresos - total_egresos
+        
+        # Definir etiquetas locales
+        lbl_bridge_inc = "Aporte Barnabas Aid (restitución préstamo puente ASIGLEH)" if lang_code == "es" else "Barnabas Aid Contribution (repayment of ASIGLEH bridge loan)"
+        lbl_bridge_exp = "Saldo Anterior (Deuda préstamo puente ASIGLEH)" if lang_code == "es" else "Prior Balance (ASIGLEH bridge loan debt)"
+        lbl_z = "Aporte Barnabas Aid (pagos directos vía Zelle)" if lang_code == "es" else "Barnabas Aid Contribution (direct Zelle payments)"
+        lbl_g = "Aporte Barnabas Aid (vía Gabriel)" if lang_code == "es" else "Barnabas Aid Contribution (via Gabriel)"
+        lbl_s = "Aporte Barnabas Aid (vía Sierra)" if lang_code == "es" else "Barnabas Aid Contribution (via Sierra)"
+        lbl_o = "Otros Ingresos Menores" if lang_code == "es" else "Other Minor Income"
+        
+        txt_ingresos = "INGRESOS" if lang_code == "es" else "INCOME"
+        txt_egresos = "EGRESOS" if lang_code == "es" else "EXPENSES"
+        txt_tot_ing = "TOTAL INGRESOS" if lang_code == "es" else "TOTAL INCOME"
+        txt_tot_egr = "TOTAL EGRESOS" if lang_code == "es" else "TOTAL EXPENSES"
+        txt_utilidad = "SALDO" if lang_code == "es" else "BALANCE"
+        txt_preparado = "Preparado por ASIGLEH - Dirección de Finanzas" if lang_code == "es" else "Prepared by ASIGLEH - Finance Division"
+        
+        header_org = "ASIGLEH"
+        header_title = "Relación de Ingresos y Gastos GABE" if lang_code == "es" else "Statement of Income and Expenses GABE"
+        period_text = "Periodo: Noviembre 2025 - Mayo 2026" if lang_code == "es" else "Period: November 2025 - May 2026"
+        
+        # Generar filas de egresos dinámicamente
+        egresos_rows_html = ""
+        for _, row_egr in df_consolidated.iterrows():
+            concept = row_egr['Concepto']
+            amount = row_egr['Monto USD']
+            egresos_rows_html += f'<tr style="border-bottom: 1px solid #e2e8f0;"><td style="padding: 10px 15px; text-align: left; font-weight: 500; color: #0f172a;">{concept}</td><td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${amount:,.2f}</td><td style="padding: 10px 15px; text-align: right;"></td></tr>'
+            
+        color_utilidad = "#117a3b" if utilidad_val >= 0 else "#b91c1c"
+        signo_utilidad = "" if utilidad_val >= 0 else "-"
+        
+        # Renderizar la tabla de relación financiera con estilo premium de alto contraste
+        st.markdown(f"""
+<div style="background: white; color: #0f172a; padding: 24px; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.05); border: 1px solid #cbd5e1; margin-top: 15px; margin-bottom: 25px;">
+<table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; font-size: 15px;">
+<thead>
+<tr style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white;">
+<th colspan="3" style="padding: 15px; border-radius: 12px 12px 0 0; text-align: center; color: white;">
+<div style="font-size: 1.1rem; font-weight: 700; letter-spacing: 1px; margin-bottom: 4px; color: white;">{header_org}</div>
+<div style="font-size: 1.3rem; font-weight: 600; margin-bottom: 4px; color: white;">{header_title}</div>
+<div style="font-size: 0.9rem; font-weight: normal; font-style: italic; opacity: 0.9; color: white;">{period_text}</div>
+</th>
+</tr>
+</thead>
+<tbody>
+<!-- SECCIÓN INGRESOS -->
+<tr style="background-color: #e2e8f0; font-weight: 700; color: #1e3c72; border-bottom: 2px solid #cbd5e1;">
+<td colspan="3" style="padding: 12px 15px; text-align: left; font-size: 16px; letter-spacing: 0.5px; color: #1e3c72;">{txt_ingresos}</td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; padding-left: 25px; color: #0f172a; font-weight: 500;">{lbl_bridge_inc}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${inc_bridge:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; padding-left: 25px; color: #0f172a; font-weight: 500;">{lbl_z}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${inc_zelle:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; padding-left: 25px; color: #0f172a; font-weight: 500;">{lbl_g}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${inc_g:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; padding-left: 25px; color: #0f172a; font-weight: 500;">{lbl_s}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${inc_s:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; padding-left: 25px; color: #0f172a; font-weight: 500;">{lbl_o}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${inc_o:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+<tr style="background-color: #f1f5f9; font-weight: 700; border-bottom: 2px solid #94a3b8; font-size: 15px;">
+<td style="padding: 12px 15px; text-align: left; padding-left: 25px; color: #0f172a;">{txt_tot_ing}</td>
+<td style="padding: 12px 15px; text-align: right;"></td>
+<td style="padding: 12px 15px; text-align: right; color: #117a3b; font-size: 16px; font-weight: 800;">${total_ingresos:,.2f}</td>
+</tr>
+<!-- SECCIÓN EGRESOS -->
+<tr style="background-color: #e2e8f0; font-weight: 700; color: #1e3c72; border-bottom: 2px solid #cbd5e1; border-top: 15px solid white;">
+<td colspan="3" style="padding: 12px 15px; text-align: left; font-size: 16px; letter-spacing: 0.5px; color: #1e3c72;">{txt_egresos}</td>
+</tr>
+<tr style="border-bottom: 1px solid #cbd5e1;">
+<td style="padding: 10px 15px; text-align: left; color: #0f172a; font-weight: 500;">{lbl_bridge_exp}</td>
+<td style="padding: 10px 15px; text-align: right; color: #0f172a; font-weight: 500;">${exp_bridge:,.2f}</td>
+<td style="padding: 10px 15px; text-align: right;"></td>
+</tr>
+{egresos_rows_html}
+<tr style="background-color: #f1f5f9; font-weight: 700; border-bottom: 2px solid #94a3b8; font-size: 15px;">
+<td style="padding: 12px 15px; text-align: left; padding-left: 25px; color: #0f172a;">{txt_tot_egr}</td>
+<td style="padding: 12px 15px; text-align: right;"></td>
+<td style="padding: 12px 15px; text-align: right; color: #b91c1c; font-size: 16px; font-weight: 800;">${total_egresos:,.2f}</td>
+</tr>
+<!-- UTILIDAD / SALDO -->
+<tr style="background-color: #e2e8f0; font-weight: 800; font-size: 16px; border-top: 15px solid white; border-bottom: 3px double #94a3b8;">
+<td style="padding: 14px 15px; text-align: left; color: #0f172a;">{txt_utilidad}</td>
+<td style="padding: 14px 15px; text-align: right;"></td>
+<td style="padding: 14px 15px; text-align: right; color: {color_utilidad}; font-size: 17px; font-weight: 900;">{signo_utilidad}${abs(utilidad_val):,.2f}</td>
+</tr>
+</tbody>
+</table>
+<div style="margin-top: 20px; text-align: right; font-style: italic; color: #334155; font-size: 0.9rem; font-weight: 600; font-family: 'Inter', sans-serif;">
+{txt_preparado}
+</div>
+</div>
+        """, unsafe_allow_html=True)
 
 
 # Pie de página elegante
