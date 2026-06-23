@@ -1195,9 +1195,9 @@ with st.expander(TRANSLATIONS[lang_code]['resultados_title'], expanded=True):
         st.markdown(TRANSLATIONS[lang_code]['siembra_limon_content'])
         col_l1, col_l2 = st.columns(2)
         with col_l1:
-            st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
+            #st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
         with col_l2:
-            st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
+            #st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
     
     with st.expander(TRANSLATIONS[lang_code]['siembra_cambur_title'], expanded=True):
         st.markdown(TRANSLATIONS[lang_code]['siembra_cambur_content'])
