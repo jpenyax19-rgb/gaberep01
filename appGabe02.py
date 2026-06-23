@@ -10,7 +10,7 @@ TRANSLATIONS = {
         "header_title": "Informe Proyecto Granja Alas de Bendición y Esperanza (GABE)",
         "intro_title": "📝 1. Introducción y Gestión Inicial de Fondos",
         "intro_p1": "El presente reporte detalla el uso y la administración de los recursos otorgados por <strong>Barnabas Aid</strong> para el desarrollo operativo de la Granja Alas de Bendición y Esperanza (GABE).",
-        "intro_p2": "La recepción de estos fondos se concretó en noviembre de 2026; sin embargo, los mismos se esperaban desde aproximadamente seis meses antes. Para evitar la paralización del proyecto y garantizar la continuidad operativa durante ese periodo de espera, fue necesario utilizar temporalmente recursos en calidad de préstamo provistos por <strong>ASIGLEH</strong>, bajo el compromiso de restituirlos una vez se recibiera el financiamiento definitivo.",
+        "intro_p2": "La recepción de estos fondos se concretó en noviembre del 2025; sin embargo, los mismos se esperaban desde aproximadamente seis meses antes. Para evitar la paralización del proyecto y garantizar la continuidad operativa durante ese periodo de espera, fue necesario utilizar temporalmente recursos en calidad de préstamo provistos por <strong>ASIGLEH</strong>, bajo el compromiso de restituirlos una vez se recibiera el financiamiento definitivo.",
         "intro_p3": "Este financiamiento puente inicial permitió cubrir de manera oportuna los siguientes gastos esenciales para el arranque del proyecto:",
         "intro_li1": "<strong>Producción avícola:</strong> Adquisición y costos de cría de 50 pollos <strong>de engorde</strong>.",
         "intro_li2": "<strong>Expansión de capacidad:</strong> Adquisición y costos de cría de hasta 280 gallinas ponedoras.",
