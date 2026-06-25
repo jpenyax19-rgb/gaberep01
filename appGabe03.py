@@ -1460,7 +1460,7 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
                 st.image(os.path.join("assets", "IMG-20260206-WA0000.jpg"), use_container_width=True)
             with col_el3:
                 st.image(os.path.join("assets", "IMG-20250128-WA0069.jpg"), use_container_width=True)
-                st.video(os.path.join("assets", "video_2026-04-24_11-50-46.mp4"))
+                # st.video(os.path.join("assets", "video_2026-04-24_11-50-46.mp4"))
         
         # Adecuación de techos
         with st.expander(TRANSLATIONS[lang_code]['techos_title'], expanded=True):
