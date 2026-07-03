@@ -13,10 +13,10 @@ TRANSLATIONS = {
         "landing_header": "Grant Agropecuario 2026-2027",
         "landing_title": "Fortalecimiento Productivo y Misionero GABE",
         "landing_sub": "Propuesta unificada para la soberanía alimentaria, formación técnica y fortalecimiento comunitario en Mérida, Táchira y Apure/Guárico",
-        "unified_vision_title": "🌐 Visión Unificada del Proyecto",
+        "unified_vision_title": "🌐 Visión del proyecto de Fortalecimiento Productivo y Misionero GABE",
         "unified_vision_desc": "El proyecto <strong>GABE 2026</strong> integra de manera estratégica tres grandes pilares para lograr impacto social y autosostenibilidad: <br><br>1. <strong>El Origen - Picalqui (Ecuador)</strong>: Capacitación técnica inicial. Tres de nuestros técnicos se capacitaron en agricultura orgánica y agroecológica en Ecuador (agosto de 2023), y hoy están listos para la fase de réplica.<br>2. <strong>El Motor Operativo - Voluntariado Cubano</strong>: Una pareja misionera cubana reside a tiempo completo en la granja para gestionar la producción, el mantenimiento y coordinar las actividades comunitarias.<br>3. <strong>La Red de Distribución - Iglesias de San Cristóbal</strong>: Circuito colaborativo de 5 congregaciones que apoya con jornadas de trabajo y canaliza la distribución de alimentos y la reinversión de beneficios.",
         "picalqui_title": "🎓 Galería del Pasado y Presente: Capacitación en Picalqui, Ecuador",
-        "picalqui_desc": "En agosto de 2023, GFI financió la formación de 3 líderes técnicos en el Centro Picalqui, Ecuador. Esta inversión previa ya dio frutos y capacitó a nuestro equipo en abonos fermentados y cultivos de ladera, estableciendo la base para la actual fase de réplica.",
+        "picalqui_desc": "En agosto de 2023, <strong>Global Food Initiative (GFI)</strong> financió la formación de 3 líderes técnicos en el Centro Picalqui, Ecuador. Esta inversión previa ya dio frutos y capacitó a nuestro equipo en abonos fermentados y cultivos de ladera, estableciendo la base para la actual fase de réplica.",
         "tech1_name": "Ewgleis Susanne Moreno Padilla",
         "tech1_bio": "Técnica agroecológica capacitada en Picalqui (2023). Encargada de dictar talleres y capacitar en el Estado Guárico y en la Granja GABE.",
         "tech2_name": "Victor Gerardo Fuentes",
@@ -24,9 +24,9 @@ TRANSLATIONS = {
         "tech3_name": "Gilber Borjas",
         "tech3_bio": "Técnico especialista en cultivos andinos y riego localizado. Responsable de la réplica técnica directa en el Estado Mérida.",
         "sustainability_title": "🐷 Modelo de Sostenibilidad: Limones Persa y Cerdos",
-        "sustainability_desc": "La autosostenibilidad económica del proyecto está planificada con seriedad y se basa en dos rubros productivos principales: <br><br>• <strong>Siembra de Limón Persa</strong>: 300 plántulas de limón persa que ya tienen 3 meses de crecimiento y se adaptan óptimamente al terreno.<br>• <strong>Cría de Cerdos</strong>: Producción por lotes de 15 cerdos en chiqueros adecuados, generando ingresos rápidos para reinversión y abono orgánico.",
+        "sustainability_desc": "La autosostenibilidad económica del proyecto está planificada con seriedad y se basa en dos rubros productivos principales: <br><br>• <strong>Siembra de Limón Persa</strong>: 300 plántulas de limón persa que se sumarían a las 100 que ya hemos plantado y que tienen 3 meses de crecimiento. Estas plantas se adaptan óptimamente al terreno y sus frutos tienen un valor comercial competitivo.<br>• <strong>Cría de Cerdos</strong>: Producción por lotes de 15 cerdos en chiqueros adecuados, generando ingresos rápidos para reinversión y abono orgánico.",
         "nuestra_granja_title": "🚜 Nuestra Granja: Estado Actual",
-        "nuestra_granja_desc": "Vista de los cultivos de limón en desarrollo, la infraestructura de chiqueros y el terreno preparado.",
+        "nuestra_granja_desc": "Vista actual de siembras, cultivos, infraestructura y producción avícola de la Granja",
         "flow_title": "🗺️ Red de Cooperación y Flujo Comunitario",
         "flow_desc": "Las iglesias de San Cristóbal y la Granja GABE cooperan activamente a pesar de las 3 horas de distancia de viaje. Los equipos de las iglesias viajan para jornadas de trabajo y apoyo en cosecha. <br><br>Las utilidades de las ventas se dividen equitativamente entre las 5 iglesias de San Cristóbal y la reinversión en la propia granja, logrando soberanía alimentaria autónoma.",
         "leaders_title": "👥 Perfil de Líderes y Voluntarios",
@@ -36,7 +36,7 @@ TRANSLATIONS = {
         "pastors_title": "Equipo de Pastores (Mérida y San Cristóbal)",
         "pastors_bio": "El equipo de pastores colidera la planificación laboral y social, asegurando que los alimentos lleguen a las familias más vulnerables y se mantenga la coordinación interiglesias.",
         "classroom_title": "🏫 El Aula de Clases Comunitaria",
-        "classroom_desc": "En la casa principal de la granja se ha acondicionado un aula. La esposa del pastor cubano (quien domina tres idiomas: español, inglés y francés) dicta clases de tareas dirigidas, inglés y francés a muy bajo costo para los niños de la comunidad rural, haciendo el proyecto tangible y conmovedor.",
+        "classroom_desc": "En la casa principal de la granja se acondicionará un aula. La esposa del pastor cubano (quien domina tres idiomas: español, inglés y francés) dictará clases de tareas dirigidas, inglés y francés a muy bajo costo para los niños de la comunidad rural, haciendo el proyecto tangible y conmovedor.",
         "transparency_title": "🤝 Transparencia y Rendición de Cuentas en Venezuela",
         "transparency_blog": "<strong>Historias de Aprendizaje: Administrando en Hiperinflación</strong><br>Operar en una economía compleja nos ha enseñado a ser flexibles y honestos. A lo largo de los últimos 8 años de confianza mutua con GFI, hemos aprendido a mitigar los riesgos del contexto país mediante conversión bajo demanda, compras directas y préstamos puente con ASIGLEH para mantener el proyecto en marcha sin paralizaciones.",
         "impact_reports_title": "📄 Informes de Impacto Previos (Últimos 8 Años)",
@@ -45,8 +45,8 @@ TRANSLATIONS = {
         "alliance_title": "🤝 Alianzas y Cooperación Institucional",
         "alliance_desc": "Agradecemos a las instituciones y redes que apoyan y acompañan el desarrollo de la Granja GABE.",
         "btn_alliance": "Conoce más sobre nuestros aliados institucionales como la Iglesia de los Hermanos",
-        "contact_title": "📞 Datos de Contacto Visibles",
-        "contact_desc": "Para verificar la autenticidad de la organización y evitar dudas de seguridad, puedes comunicarte por los canales oficiales declarados en la propuesta:<br><br>• 📧 <strong>cobvenezuela@gmail.com</strong> (Coordinación)<br>• 📧 <strong>rogerpadilla592@gmail.com</strong> (Administración)<br>• 💬 <strong>Contacto WhatsApp Directo</strong>: Roger Padilla",
+        "contact_title": "📞 Datos de Contacto",
+        "contact_desc": "Para verificar la autenticidad de la organización y evitar dudas de seguridad, puedes comunicarte por los canales oficiales declarados en la propuesta:<br><br>• 📧 <strong>cobvenezuela@gmail.com</strong> (Coordinación)<br>• 📧 <strong>rogerpadilla592@gmail.com</strong> (Administración)<br>• 💬 <strong>Contacto WhatsApp Roger Padilla</strong>: +58 412 384 1926",
 
         "header_title": "Informe Proyecto Granja Alas de Bendición y Esperanza (GABE)",
         "intro_title": "📝 1. Reporte Operativo: Ejecución de Fondos y Sostenibilidad de la Granja GABE",
@@ -204,10 +204,10 @@ TRANSLATIONS = {
         "testimonios_content": "Espacio para testimonios del equipo de trabajo de la Granja y agradecimientos a Barnabas Aid por el apoyo brindado.",
         "informe_gestion_title": "### INFORME DE GESTIÓN Y RESULTADOS:",
         "dirigido_a_title": "Dirigido a:",
-        "antecedentes_header": "### 📜 Antecedentes y Objetivos del proyecto",
-        "antecedentes_title": "✈️ ANTECEDENTES DEL PROYECTO (2024 - 2025)",
+        "antecedentes_header": "### 📜 Antecedentes de GABE (Granja Alas de Bendición)",
+        "antecedentes_title": "✈️ ANTECEDENTES GABE (2024-2025)",
         "objetivos_title": "✅ OBJETIVOS DEL PROYECTO (2025-2026)",
-        "resultados_header": "### 🎯 Resultados alcanzados",
+        "resultados_header": "### 🎯 Gestión y capacidad Institucional GABE",
         "resultados_title": "🎯 Transparencia en Acción: Resultados Alcanzados y Capacidad Institucional (Periodo 2025-2026)",
         "activos_title": "<h4 style='color: #4361ee;'>🔭 Activos</h4>",
         "moto_desc": "Adquisición de una Cuatrimoto, necesaria para la movilidad en la finca y hacia Tovar y pueblos aledaños para la búsqueda de insumos y venta de productos (huevos, pollos, etc.)",
@@ -274,10 +274,10 @@ TRANSLATIONS = {
         "landing_header": "Agricultural Grant 2026-2027",
         "landing_title": "GABE Productive and Missionary Strengthening",
         "landing_sub": "Unified proposal for food sovereignty, technical training, and community strengthening in Mérida, Táchira, and Apure/Guárico",
-        "unified_vision_title": "🌐 Unified Project Vision",
+        "unified_vision_title": "🌐 GABE Productive and Missionary Strengthening Project Vision",
         "unified_vision_desc": "The <strong>GABE 2026</strong> project strategically integrates three main pillars for social impact and self-sustainability: <br><br>1. <strong>The Origin - Picalqui (Ecuador)</strong>: Initial technical training. Three of our technicians trained in organic and agroecological agriculture in Ecuador (August 2023), and are now ready for the replication phase.<br>2. <strong>The Operational Engine - Cuban Volunteers</strong>: A Cuban missionary couple resides full-time at the farm to manage production, maintenance, and coordinate community activities.<br>3. <strong>The Distribution Network - San Cristóbal Churches</strong>: A collaborative circuit of 5 congregations that supports with workdays and channels food distribution and profit reinvestment.",
         "picalqui_title": "🎓 Past & Present Gallery: Picalqui Training, Ecuador",
-        "picalqui_desc": "In August 2023, GFI funded the training of 3 technical leaders at the Picalqui Center, Ecuador. This previous investment has already borne fruit, training our team in fermented fertilizers and hillside farming, establishing the foundation for the current replication phase.",
+        "picalqui_desc": "In August 2023, <strong>Global Food Initiative (GFI)</strong> funded the training of 3 technical leaders at the Picalqui Center, Ecuador. This previous investment has already borne fruit, training our team in fermented fertilizers and hillside farming, establishing the foundation for the current replication phase.",
         "tech1_name": "Ewgleis Susanne Moreno Padilla",
         "tech1_bio": "Agroecological technician trained in Picalqui (2023). In charge of teaching workshops and training in Guárico State and at the GABE Farm.",
         "tech2_name": "Victor Gerardo Fuentes",
@@ -285,9 +285,9 @@ TRANSLATIONS = {
         "tech3_name": "Gilber Borjas",
         "tech3_bio": "Technician specializing in Andean crops and localized irrigation. Responsible for direct technical replication in Mérida State.",
         "sustainability_title": "🐷 Sustainability Model: Persian Lemons and Pigs",
-        "sustainability_desc": "The project's economic self-sustainability is seriously planned and based on two main productive areas: <br><br>• <strong>Persian Lemon Planting</strong>: 300 Persian lemon seedlings that have 3 months of growth and adapt optimally to the terrain.<br>• <strong>Pig Rearing</strong>: Batch production of 15 pigs in suitable pigpens, generating quick income for reinvestment and organic fertilizer.",
+        "sustainability_desc": "The project's economic self-sustainability is seriously planned and based on two main productive areas: <br><br>• <strong>Persian Lemon Planting</strong>: 300 Persian lemon seedlings that would add to the 100 we have already planted and which have 3 months of growth. These plants adapt optimally to the terrain and their fruits have a competitive commercial value.<br>• <strong>Pig Rearing</strong>: Batch production of 15 pigs in suitable pigpens, generating quick income for reinvestment and organic fertilizer.",
         "nuestra_granja_title": "🚜 Our Farm: Current State",
-        "nuestra_granja_desc": "View of developing lemon crops, pigpen infrastructure, and prepared land.",
+        "nuestra_granja_desc": "Current view of sowing, crops, infrastructure, and poultry production of the Farm",
         "flow_title": "🗺️ Cooperation Network and Community Flow",
         "flow_desc": "The San Cristóbal churches and GABE Farm actively cooperate despite the 3-hour travel distance. Church teams travel for workdays and harvest support. <br><br>Profits from sales are split equally among the 5 San Cristóbal churches and reinvestment in the farm itself, achieving autonomous food sovereignty.",
         "leaders_title": "👥 Leaders and Volunteers Profiles",
@@ -297,7 +297,7 @@ TRANSLATIONS = {
         "pastors_title": "Pastors Team (Mérida and San Cristóbal)",
         "pastors_bio": "The pastors team co-leads work and social planning, ensuring food reaches the most vulnerable families and inter-church coordination is maintained.",
         "classroom_title": "🏫 The Community Classroom",
-        "classroom_desc": "A classroom has been set up in the main house of the farm. The Cuban pastor's wife (who speaks Spanish, English, and French) teaches directed homework and languages at a very low cost to rural children, making the project tangible and touching.",
+        "classroom_desc": "A classroom will be set up in the main house of the farm. The Cuban pastor's wife (who speaks Spanish, English, and French) will teach directed homework and languages at a very low cost to rural children, making the project tangible and touching.",
         "transparency_title": "🤝 Transparency and Accountability in Venezuela",
         "transparency_blog": "<strong>Learning Stories: Managing in Hyperinflation</strong><br>Operating in a complex economy has taught us to be flexible and honest. Throughout the last 8 years of mutual trust with GFI, we have learned to mitigate country context risks through on-demand conversion, direct purchases, and bridge loans with ASIGLEH to keep the project running without halts.",
         "impact_reports_title": "📄 Previous Impact Reports (Past 8 Years)",
@@ -306,8 +306,8 @@ TRANSLATIONS = {
         "alliance_title": "🤝 Partnerships and Institutional Cooperation",
         "alliance_desc": "We thank the institutions and networks that support and accompany the GABE Farm development.",
         "btn_alliance": "Learn more about our institutional allies such as the Church of the Brethren",
-        "contact_title": "📞 Visible Contact Data",
-        "contact_desc": "To verify the organization's authenticity and avoid security concerns, you can communicate through the official channels declared in the proposal:<br><br>• 📧 <strong>cobvenezuela@gmail.com</strong> (Coordination)<br>• 📧 <strong>rogerpadilla592@gmail.com</strong> (Administration)<br>• 💬 <strong>Direct WhatsApp Contact</strong>: Roger Padilla",
+        "contact_title": "📞 Contact Data",
+        "contact_desc": "To verify the organization's authenticity and avoid security concerns, you can communicate through the official channels declared in the proposal:<br><br>• 📧 <strong>cobvenezuela@gmail.com</strong> (Coordination)<br>• 📧 <strong>rogerpadilla592@gmail.com</strong> (Administration)<br>• 💬 <strong>WhatsApp Contact Roger Padilla</strong>: +58 412 384 1926",
         "header_title": "Project Report: Alas de Bendición y Esperanza Farm (GABE)",
         "intro_title": "📝 1. Operational Report: Fund Execution and Sustainability of the GABE Farm",
         "intro_body": """
@@ -467,7 +467,7 @@ TRANSLATIONS = {
         "antecedentes_header": "### 📜 Project Background and Objectives",
         "antecedentes_title": "✈️ PROJECT BACKGROUND (2024 - 2025)",
         "objetivos_title": "✅ PROJECT OBJECTIVES (2025-2026)",
-        "resultados_header": "### 🎯 Results Achieved",
+        "resultados_header": "### 🎯 GABE Management and Institutional Capacity",
         "resultados_title": "🎯 Transparency in Action: Results Achieved and Institutional Capacity (2025-2026 Period)",
         "activos_title": "<h4 style='color: #4361ee;'>🔭 Assets</h4>",
         "moto_desc": "Acquisition of an ATV/Quad, necessary for mobility on the farm and to Tovar and surrounding towns to search for supplies and sell products (eggs, chickens, etc.)",
@@ -1133,9 +1133,18 @@ def safe_image(img_path, caption=None, use_container_width=True, width=None):
 
 def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, SELECTED_SHEET):
     # Header Banner Hero
+    import base64
+    logo_path = os.path.join("assets", "GFIlogo01.png")
+    logo_html = ""
+    if os.path.exists(logo_path):
+        with open(logo_path, "rb") as f:
+            logo_base64 = base64.b64encode(f.read()).decode()
+            logo_html = f'<img src="data:image/png;base64,{logo_base64}" style="max-height: 80px; margin-bottom: 15px; display: block; margin-left: auto; margin-right: auto;" />'
+
     st.markdown(
         f"""
         <div class="landing-hero">
+            {logo_html}
             <span style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; opacity: 0.8;">{TRANSLATIONS[lang_code]['landing_header']}</span>
             <h1>{TRANSLATIONS[lang_code]['landing_title']}</h1>
             <div style="height: 3px; width: 80px; background: #e2e8f0; margin: 15px auto; border-radius: 2px;"></div>
@@ -1183,7 +1192,7 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
         st.markdown(f'<div style="line-height: 1.6; margin-bottom: 20px;">{TRANSLATIONS[lang_code]["picalqui_desc"]}</div>', unsafe_allow_html=True)
         
         # Display the main technical training image
-        safe_image(os.path.join("assets", "picalqui_techs.png"), caption="Réplica del Aprendizaje: Capacitación en Picalqui, Ecuador (Agosto 2023)" if lang_code == "es" else "Replicating Learning: Technical training in Picalqui, Ecuador (August 2023)")
+        safe_image(os.path.join("assets", "picalquiCom1.png"), caption="Capacitación en Picalqui, Ecuador (Agosto 2023)" if lang_code == "es" else "Technical training in Picalqui, Ecuador (August 2023)")
         
         col_t1, col_t2, col_t3 = st.columns(3)
         with col_t1:
@@ -1197,6 +1206,7 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
                 """,
                 unsafe_allow_html=True
             )
+            safe_image(os.path.join("assets", "susanne001.jpg"))
         with col_t2:
             st.markdown(
                 f"""
@@ -1208,6 +1218,7 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
                 """,
                 unsafe_allow_html=True
             )
+            safe_image(os.path.join("assets", "picalqui001.jpg"))
         with col_t3:
             st.markdown(
                 f"""
@@ -1219,6 +1230,7 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
                 """,
                 unsafe_allow_html=True
             )
+            safe_image(os.path.join("assets", "Gilbert001.jpg"))
 
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -1233,12 +1245,13 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
         col_s1, col_s2 = st.columns(2)
         with col_s1:
             st.markdown(f'<h4>{TRANSLATIONS[lang_code]["nuestra_granja_title"]}</h4>', unsafe_allow_html=True)
-            safe_image(os.path.join("assets", "nuestra_granja_sostenible.png"), caption=TRANSLATIONS[lang_code]["nuestra_granja_desc"])
+            safe_image(os.path.join("assets", "gabeEnproduccion.png"), caption=TRANSLATIONS[lang_code]["nuestra_granja_desc"])
             st.markdown(f'<div style="line-height: 1.6; margin-top: 15px;">{TRANSLATIONS[lang_code]["sustainability_desc"]}</div>', unsafe_allow_html=True)
+            safe_image(os.path.join("assets", "procesoCerdos02.png"), caption="Cría de cerdos en la Granja GABE" if lang_code == "es" else "Pig rearing at GABE Farm")
             
         with col_s2:
             st.markdown(f'<h4>{TRANSLATIONS[lang_code]["flow_title"]}</h4>', unsafe_allow_html=True)
-            safe_image(os.path.join("assets", "flujo_comunitario.png"), caption="Red de Iglesias San Cristóbal - Mérida (Distancia: 3 horas)" if lang_code == "es" else "San Cristóbal - Mérida Church Network (3-Hour Travel Distance)")
+            safe_image(os.path.join("assets", "pastSanCrist01.png"), caption="Red de pastores de Iglesias involucradas en San Cristóbal - Mérida " if lang_code == "es" else "Network of pastors from involved churches in San Cristóbal - Mérida")
             st.markdown(f'<div style="line-height: 1.6; margin-top: 15px;">{TRANSLATIONS[lang_code]["flow_desc"]}</div>', unsafe_allow_html=True)
 
     st.markdown("<br>", unsafe_allow_html=True)
@@ -1251,12 +1264,18 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
         # Roger Profile
         col_r1, col_r2 = st.columns([1, 2.5])
         with col_r1:
-            safe_image(os.path.join("assets", "roger_moreno.png"))
+            safe_image(os.path.join("assets", "roger001.jpg"))
         with col_r2:
             st.markdown(f'<h4>{TRANSLATIONS[lang_code]["roger_title"]}</h4>', unsafe_allow_html=True)
             st.markdown(f'<div style="line-height: 1.6; font-size:1.05rem;">{TRANSLATIONS[lang_code]["roger_bio"]}</div>', unsafe_allow_html=True)
             
-            st.markdown("<br>", unsafe_allow_html=True)
+        st.markdown("<br>", unsafe_allow_html=True)
+        
+        # Pastors Profile
+        col_p1, col_p2 = st.columns([1, 2.5])
+        with col_p1:
+            safe_image(os.path.join("assets", "pastMerida01.png"))
+        with col_p2:
             st.markdown(f'<h5>{TRANSLATIONS[lang_code]["pastors_title"]}</h5>', unsafe_allow_html=True)
             st.markdown(f'<div style="line-height: 1.6; font-size:0.95rem; opacity: 0.85;">{TRANSLATIONS[lang_code]["pastors_bio"]}</div>', unsafe_allow_html=True)
 
@@ -1268,50 +1287,12 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
             st.markdown(f'<h4>{TRANSLATIONS[lang_code]["classroom_title"]}</h4>', unsafe_allow_html=True)
             st.markdown(f'<div style="line-height: 1.6; font-size:1.05rem;">{TRANSLATIONS[lang_code]["classroom_desc"]}</div>', unsafe_allow_html=True)
         with col_c2:
-            safe_image(os.path.join("assets", "aula_comunitaria.png"), caption="Aula de clases en la casa principal de la Granja" if lang_code == "es" else "Classroom inside the main house of the Farm")
+            safe_image(os.path.join("assets", "clases01.png"), caption="Aula de clases en la casa principal de la Granja. Imagen generada con IA" if lang_code == "es" else "Classroom inside the main house of the Farm. AI-generated image")
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # 5. Transparencia y Rendición de Cuentas
+    # 5. Contacto
     with st.container():
-        st.markdown(f'<div class="section-title">{TRANSLATIONS[lang_code]["transparency_title"]}</div>', unsafe_allow_html=True)
-        
-        # Inflation learning story blog-post
-        st.markdown(
-            f"""
-            <div class="blog-container">
-                {TRANSLATIONS[lang_code]['transparency_blog']}
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
-        
-        # Previous projects summary space
-        st.markdown(f'<h4>{TRANSLATIONS[lang_code]["impact_reports_title"]}</h4>', unsafe_allow_html=True)
-        st.markdown(f'<div style="line-height: 1.6; margin-bottom:15px;">{TRANSLATIONS[lang_code]["impact_reports_desc"]}</div>', unsafe_allow_html=True)
-        
-        # Download summary button (PDF simulation)
-        report_data = b"GFI GABE Farm Projects Impact Report (2018-2026)\n\n1. Project GABE 2018-2020: Successful implementation of basic irrigation.\n2. Project GABE 2021-2023: Agroecological conversion and organic compost training.\n3. Project GABE 2024-2025: Stable poultry production unit established despite energy challenges."
-        st.download_button(
-            label=TRANSLATIONS[lang_code]['btn_download_report'],
-            data=report_data,
-            file_name="gabe_impact_report_gfi.txt",
-            mime="text/plain"
-        )
-
-    st.markdown("<br>", unsafe_allow_html=True)
-
-    # 6. Alianzas y Contacto
-    with st.container():
-        st.markdown(f'<div class="section-title">{TRANSLATIONS[lang_code]["alliance_title"]}</div>', unsafe_allow_html=True)
-        st.markdown(f'<div style="line-height: 1.6; margin-bottom:15px;">{TRANSLATIONS[lang_code]["alliance_desc"]}</div>', unsafe_allow_html=True)
-        
-        # Alliance Button CTA
-        if st.button(TRANSLATIONS[lang_code]['btn_alliance']):
-            st.info("Aliado principal: Iglesia de los Hermanos (Global Food Initiative). Cooperación institucional continua para el desarrollo agropecuario sostenible y el servicio comunitario." if lang_code == "es" else "Primary Ally: Church of the Brethren (Global Food Initiative). Continued institutional cooperation for sustainable agricultural development and community service.")
-            
-        st.markdown("<br><hr style='border: 1px dashed #cbd5e1;'><br>", unsafe_allow_html=True)
-        
         # Verified contact info
         st.markdown(
             f"""
@@ -1323,7 +1304,6 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
             unsafe_allow_html=True
         )
 
-    st.markdown("<br><br>")
     st.markdown("---")
     st.markdown(
         f"""
@@ -1460,7 +1440,7 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
                 st.image(os.path.join("assets", "IMG-20260206-WA0000.jpg"), use_container_width=True)
             with col_el3:
                 st.image(os.path.join("assets", "IMG-20250128-WA0069.jpg"), use_container_width=True)
-                # st.video(os.path.join("assets", "video_2026-04-24_11-50-46.mp4"))
+                st.video(os.path.join("assets", "video_2026-04-24_11-50-46.mp4"))
         
         # Adecuación de techos
         with st.expander(TRANSLATIONS[lang_code]['techos_title'], expanded=True):
@@ -1536,14 +1516,14 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             # Videos de la Obra
             st.markdown(f"<h4 style='margin-bottom: 15px;'>{TRANSLATIONS[lang_code]['videos_obra_header']}</h4>", unsafe_allow_html=True)
             st.markdown(f"<p style='font-weight: bold; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_1_title']}</p>", unsafe_allow_html=True)
-            # st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
+            st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
             
             st.markdown(f"<p style='font-weight: bold; margin-top: 15px; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_2_title']}</p>", unsafe_allow_html=True)
             st.markdown(f"<p style='line-height: 1.6; margin-bottom: 10px;'>{TRANSLATIONS[lang_code]['video_2_desc']}</p>", unsafe_allow_html=True)
             col_v2_1, col_v2_2, col_v2_3 = st.columns([1, 2, 1])
             with col_v2_2:
-                # st.video(os.path.join("assets", "makeoverExtreme.mp4"))
-                '---'
+                st.video(os.path.join("assets", "makeoverExtreme.mp4"))
+        
         
         # Divider
         st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
@@ -1602,8 +1582,7 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             st.markdown(TRANSLATIONS[lang_code]['siembra_limon_content'])
             col_l1, col_l2 = st.columns(2)
             with col_l1:
-                # st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
-                '---'
+                st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
             with col_l2:
                 st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
                 
