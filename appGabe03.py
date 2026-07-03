@@ -1583,9 +1583,11 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             st.markdown(TRANSLATIONS[lang_code]['siembra_limon_content'])
             col_l1, col_l2 = st.columns(2)
             with col_l1:
-                st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
+                #st.video(os.path.join("assets", "doc_2026-04-24_11-47-33.mp4"))
+                '---'
             with col_l2:
-                st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
+                #st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
+                '---'
                 
             st.markdown("<hr style='border: 1px dashed #cccccc;'>", unsafe_allow_html=True)
             
