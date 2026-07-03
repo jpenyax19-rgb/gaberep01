@@ -1592,8 +1592,8 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             # 3. Cambur y otros cultivos
             st.markdown(f"#### 🍌 {TRANSLATIONS[lang_code]['siembra_cambur_title']}")
             st.markdown(TRANSLATIONS[lang_code]['siembra_cambur_content'])
-            st.video(os.path.join("assets", "video_2026-04-24_11-49-46.mp4"))
-            
+            #st.video(os.path.join("assets", "video_2026-04-24_11-49-46.mp4"))
+            '---'
             col1, col2, col3 = st.columns(3)
             images = [
                 "photo_2026-04-24_11-49-51.jpg",
