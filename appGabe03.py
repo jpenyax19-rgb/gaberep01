@@ -6,7 +6,7 @@ import altair as alt
 
 TRANSLATIONS = {
     "es": {
-        "page_title": "Informe Financiero: GABE - Barnabas Aid",
+        "page_title": "Proyecto de Fortalecimiento Productivo y Misionero GABE - GFI",
         "sidebar_nav_title": "Navegación / Navigation",
         "page_gabe2026": "🏠 Proyecto GABE 2026 (Subvención GFI)",
         "page_dashboard": "📊 Dashboard Financiero (Barnabas Aid)",
@@ -267,7 +267,7 @@ TRANSLATIONS = {
         "video_2_desc": "Este video muestra las renovaciones realizadas en la casa principal de la granja. Se han reparado los sistemas eléctricos y de plomería, además de pintar paredes, ajustar ventanas y reacondicionar baños, habitaciones y cocina, logrando un aspecto funcional y elegante. En el exterior, se observan vehículos, cultivos de cambur, árboles frutales como aguacate y guanábana, además de un huerto con cebollín.",
     },
     "en": {
-        "page_title": "Financial Report: GABE - Barnabas Aid",
+        "page_title": "GABE Productive and Missionary Strengthening Project - GFI",
         "sidebar_nav_title": "Navegación / Navigation",
         "page_gabe2026": "🏠 GABE 2026 Project (GFI Grant)",
         "page_dashboard": "📊 Financial Dashboard (Barnabas Aid)",
