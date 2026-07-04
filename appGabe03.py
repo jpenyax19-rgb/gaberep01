@@ -181,10 +181,10 @@ TRANSLATIONS = {
         "desafios_mercado_title": "Desafíos de Mercado: La producción de huevos es constante, pero enfrentamos un entorno económico adverso. El precio del cartón de huevos bajó de una expectativa de $5.50 a un rango de $3.50 - $5.00, mientras que los costos del alimento balanceado siguen en aumento, reduciendo el margen de ganancia operativa.",
         "desafios_mercado_content": "Análisis de costos de alimento y fluctuación de precios de venta en el mercado regional.",
         "diversificacion_header": "### 🤝 Diversificación Agroecológica 🌱🌿🍊",
-        "siembra_cafe_title": "Adquisición y siembra de 100 matas de café.",
+        "siembra_cafe_title": "Adquisición y siembra de 1000 matas de café.",
         "siembra_cafe_content": """
 **Detalles sobre la adquisición y siembra de café:**
-* **Logística y Selección**: Traslado e introducción de 100 plántulas de café seleccionadas para resistir las condiciones climáticas de la zona montañosa.
+* **Logística y Selección**: Traslado e introducción de 1000 plántulas de café seleccionadas para resistir las condiciones climáticas de la zona montañosa.
 * **Siembra e Infraestructura**: Colocación en campo usando fertilización y protección de suelo para garantizar el desarrollo del cultivo.
 """,
         "siembra_limon_title": "Adquisición y siembra de 100 plantas de limón persa.",
@@ -252,7 +252,7 @@ TRANSLATIONS = {
                 <li><strong>🔭 Adquisición de Activos:</strong> Incorporación de transporte clave (cuatrimoto), equipamiento de cadena de frío (congelador), herramientas de trabajo y materiales operativos fundamentales para el desarrollo de la granja.</li>
                 <li><strong>🛠️ Adecuación de Infraestructura:</strong> Estabilización crítica y mejoras profundas de habitabilidad (sistemas hídricos, cableado eléctrico y tableros de seguridad, techado e instalaciones residenciales).</li>
                 <li><strong>🐓 Producción Avícola Activa:</strong> Crianza de 380 gallinas ponedoras y 100 pollos de engorde para sustento, reactivación comercial y donaciones comunitarias.</li>
-                <li><strong>🌱 Diversificación Agroecológica:</strong> Establecimiento de cultivos permanentes (100 plántulas de café, 100 plantas de limón persa y 250 matas de cambur) intercalados con siembras de ciclo corto para seguridad alimentaria.</li>
+                <li><strong>🌱 Diversificación Agroecológica:</strong> Establecimiento de cultivos permanentes (1000 plántulas de café, 100 plantas de limón persa y 250 matas de cambur) intercalados con siembras de ciclo corto para seguridad alimentaria.</li>
                 <li><strong>💼 Gestión Financiera Unificada:</strong> Ejecución de recursos de forma óptima a través de compras directas (Zelle) y conversiones controladas a moneda nacional en Banco Provincial para mitigar la hiperinflación.</li>
             </ul>
         </div>
@@ -441,10 +441,10 @@ TRANSLATIONS = {
         "desafios_mercado_title": "Market Challenges: Egg production is constant, but we face an adverse economic environment. The price of a carton of eggs fell from an expectation of $5.50 to a range of $3.50 - $5.00, while the costs of balanced feed continue to rise, reducing the operating profit margin.",
         "desafios_mercado_content": "Analysis of feed costs and sales price fluctuation in the regional market.",
         "diversificacion_header": "### 🤝 Agroecological Diversification 🌱🌿🍊",
-        "siembra_cafe_title": "Acquisition and planting of 100 coffee plants.",
+        "siembra_cafe_title": "Acquisition and planting of 1000 coffee plants.",
         "siembra_cafe_content": """
 **Details on coffee acquisition and planting:**
-* **Logistics and Selection**: Transport and introduction of 100 coffee seedlings selected to withstand local mountainous climate conditions.
+* **Logistics and Selection**: Transport and introduction of 1000 coffee seedlings selected to withstand local mountainous climate conditions.
 * **Planting and Soil**: Field placement employing organic fertilization and ground cover protection to guarantee plant health.
 """,
         "siembra_limon_title": "Acquisition and planting of 100 Persian lemon plants.",
@@ -512,7 +512,7 @@ TRANSLATIONS = {
                 <li><strong>🔭 Asset Acquisition:</strong> Integration of vital transportation (quad bike), cold chain equipment (freezer), work tools, and administrative supplies essential for daily operations.</li>
                 <li><strong>🛠️ Infrastructure Rehabilitation:</strong> Critical repair and improvement of living and working conditions (potable water systems, electrical grid safety, roofs, and farm buildings).</li>
                 <li><strong>🐓 Active Poultry Production:</strong> Rearing of 380 laying hens and 100 broiler chickens to provide nutritional security, market commercialization, and emergency community aid.</li>
-                <li><strong>🌱 Agroecological Diversification:</strong> Planting of permanent cash crops (100 coffee seedlings, 100 Persian lemon trees, and 250 banana plants) alongside short-cycle food crops.</li>
+                <li><strong>🌱 Agroecological Diversification:</strong> Planting of permanent cash crops (1000 coffee seedlings, 100 Persian lemon trees, and 250 banana plants) alongside short-cycle food crops.</li>
                 <li><strong>💼 Unified Financial Management:</strong> Efficient resource allocation through direct supplier payments (Zelle) and controlled conversion to local currency (Provincial Bank) to navigate high inflation.</li>
             </ul>
         </div>
