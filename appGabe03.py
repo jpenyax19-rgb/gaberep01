@@ -29,6 +29,8 @@ TRANSLATIONS = {
         "nuestra_granja_desc": "Vista actual de siembras, cultivos, infraestructura y producción avícola de la Granja",
         "flow_title": "🗺️ Red de Cooperación y Flujo Comunitario",
         "flow_desc": "Las iglesias de San Cristóbal y la Granja GABE cooperan activamente a pesar de las 3 horas de distancia de viaje. Los equipos de las iglesias viajan para jornadas de trabajo y apoyo en cosecha. <br><br>Las utilidades de las ventas se dividen equitativamente entre las 5 iglesias de San Cristóbal y la reinversión en la propia granja, logrando soberanía alimentaria autónoma.",
+        "volunteer_sub": "Programa Voluntariado Internacional Misionero",
+        "volunteer_desc": "Incorporación de una pareja misionera procedente de Cuba (Yonny y Raidel Campos Aldana) como voluntarios a tiempo completo. Su labor será la gestión operativa de la granja, el impulso de la producción y el desarrollo de plantación de iglesias, evangelismo, clases de tareas dirigidas y de inglés-francés para niños escolares en la comunidad y los pueblos aledaños, en aula de clase de la casa principal en la Granja a muy bajos costos.",
         "leaders_title": "👥 Perfil de Líderes y Voluntarios",
         "leaders_desc": "GFI apoya a personas comprometidas que ponen rostro y corazón al proyecto en las comunidades locales.",
         "roger_title": "Roger Moreno Padilla (Presidente y Administrador GABE)",
@@ -290,6 +292,8 @@ TRANSLATIONS = {
         "nuestra_granja_desc": "Current view of sowing, crops, infrastructure, and poultry production of the Farm",
         "flow_title": "🗺️ Cooperation Network and Community Flow",
         "flow_desc": "The San Cristóbal churches and GABE Farm actively cooperate despite the 3-hour travel distance. Church teams travel for workdays and harvest support. <br><br>Profits from sales are split equally among the 5 San Cristóbal churches and reinvestment in the farm itself, achieving autonomous food sovereignty.",
+        "volunteer_sub": "International Missionary Volunteer Program",
+        "volunteer_desc": "Incorporation of a missionary couple from Cuba (Yonny and Raidel Campos Aldana) as full-time volunteers. Their work will consist of the operational management of the farm, boosting production, and the development of church planting, evangelism, guided homework classes, and English-French classes for school children in the community and surrounding towns, in a classroom in the main house of the farm at very low cost.",
         "leaders_title": "👥 Leaders and Volunteers Profiles",
         "leaders_desc": "GFI finances committed people who put a face and a heart to the project in their local communities.",
         "roger_title": "Roger Moreno Padilla (President and GABE Administrator)",
@@ -1239,20 +1243,39 @@ def render_gabe2026_landing(lang_code, df_filtered, df_raw, has_financial_cols, 
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # 3. Sostenibilidad y Flujo Comunitario
+    # 3. Sostenibilidad
     with st.container():
         st.markdown(f'<div class="section-title">{TRANSLATIONS[lang_code]["sustainability_title"]}</div>', unsafe_allow_html=True)
         col_s1, col_s2 = st.columns(2)
         with col_s1:
             st.markdown(f'<h4>{TRANSLATIONS[lang_code]["nuestra_granja_title"]}</h4>', unsafe_allow_html=True)
             safe_image(os.path.join("assets", "gabeEnproduccion.png"), caption=TRANSLATIONS[lang_code]["nuestra_granja_desc"])
+        with col_s2:
             st.markdown(f'<div style="line-height: 1.6; margin-top: 15px;">{TRANSLATIONS[lang_code]["sustainability_desc"]}</div>', unsafe_allow_html=True)
             safe_image(os.path.join("assets", "procesoCerdos02.png"), caption="Cría de cerdos en la Granja GABE" if lang_code == "es" else "Pig rearing at GABE Farm")
-            
-        with col_s2:
-            st.markdown(f'<h4>{TRANSLATIONS[lang_code]["flow_title"]}</h4>', unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # 3.5. Red de Cooperación y Flujo Comunitario
+    with st.container():
+        st.markdown(f'<div class="section-title">{TRANSLATIONS[lang_code]["flow_title"]}</div>', unsafe_allow_html=True)
+        col_f1, col_f2 = st.columns([1.5, 2])
+        with col_f1:
             safe_image(os.path.join("assets", "pastSanCrist01.png"), caption="Red de pastores de Iglesias involucradas en San Cristóbal - Mérida " if lang_code == "es" else "Network of pastors from involved churches in San Cristóbal - Mérida")
+        with col_f2:
             st.markdown(f'<div style="line-height: 1.6; margin-top: 15px;">{TRANSLATIONS[lang_code]["flow_desc"]}</div>', unsafe_allow_html=True)
+        
+        st.markdown("<hr style='margin: 25px 0; border: 0; border-top: 1px solid #eee;'>", unsafe_allow_html=True)
+        col_v1, col_v2 = st.columns([2, 1.5])
+        with col_v1:
+            st.markdown(f'<h4>{TRANSLATIONS[lang_code]["volunteer_sub"]}</h4>', unsafe_allow_html=True)
+            st.markdown(f'<div style="line-height: 1.6; margin-top: 10px;">{TRANSLATIONS[lang_code]["volunteer_desc"]}</div>', unsafe_allow_html=True)
+        with col_v2:
+            col_img1, col_img2 = st.columns(2)
+            with col_img1:
+                safe_image(os.path.join("assets", "cubanos01.jpg"), caption="Voluntariado Cubano 1" if lang_code == "es" else "Cuban Volunteers 1")
+            with col_img2:
+                safe_image(os.path.join("assets", "cubanos02.jpg"), caption="Voluntariado Cubano 2" if lang_code == "es" else "Cuban Volunteers 2")
 
     st.markdown("<br>", unsafe_allow_html=True)
 
@@ -1518,13 +1541,12 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             st.markdown(f"<p style='font-weight: bold; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_1_title']}</p>", unsafe_allow_html=True)
             #st.video(os.path.join("assets", "video_2026-04-24_11-55-11.mp4"))
             '---'
-            
             st.markdown(f"<p style='font-weight: bold; margin-top: 15px; margin-bottom: 5px;'>{TRANSLATIONS[lang_code]['video_2_title']}</p>", unsafe_allow_html=True)
             st.markdown(f"<p style='line-height: 1.6; margin-bottom: 10px;'>{TRANSLATIONS[lang_code]['video_2_desc']}</p>", unsafe_allow_html=True)
             col_v2_1, col_v2_2, col_v2_3 = st.columns([1, 2, 1])
             with col_v2_2:
-                #st.video(os.path.join("assets", "makeoverExtreme.mp4"))
-                '---'
+                st.video(os.path.join("assets", "makeoverExtreme.mp4"))
+        
         
         # Divider
         st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
@@ -1588,7 +1610,6 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             with col_l2:
                 #st.video(os.path.join("assets", "video_2026-04-24_11-47-41.mp4"))
                 '---'
-                
             st.markdown("<hr style='border: 1px dashed #cccccc;'>", unsafe_allow_html=True)
             
             # 3. Cambur y otros cultivos
