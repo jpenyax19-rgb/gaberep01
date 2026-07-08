@@ -1545,8 +1545,8 @@ def render_resultados_alcanzados(lang_code, df_filtered, df_raw, has_financial_c
             st.markdown(f"<p style='line-height: 1.6; margin-bottom: 10px;'>{TRANSLATIONS[lang_code]['video_2_desc']}</p>", unsafe_allow_html=True)
             col_v2_1, col_v2_2, col_v2_3 = st.columns([1, 2, 1])
             with col_v2_2:
-                st.video(os.path.join("assets", "makeoverExtreme.mp4"))
-        
+                #st.video(os.path.join("assets", "makeoverExtreme.mp4"))
+                '---'
         
         # Divider
         st.markdown("<hr style='border: 2px solid #8B7A5F;'>", unsafe_allow_html=True)
